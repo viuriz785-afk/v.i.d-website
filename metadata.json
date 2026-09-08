@@ -1,0 +1,6 @@
+{
+  "name": "V.I.D Studio",
+  "description": "Creative visual agency portfolio with cinematic style, minimalist colors, and highly responsive transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
